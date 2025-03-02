@@ -1,0 +1,6 @@
+export(dichotimize.coexpression)
+export(get.network)
+export(icmicm)
+export(read.expression)
+export(read.gwas)
+export(overlay.exp.gwas)

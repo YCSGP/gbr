@@ -1,0 +1,14 @@
+Package: gbr
+Type: Package
+Title: Guilt by Rewiring (prioritization of GWAS signal by incoporating
+        network information)
+Version: 1.0
+Date: 2013-06-26
+Author: Lin Hou, Min Chen, Clarence Zhang, Judy Cho, Hongyu Zhao
+Maintainer: Lin Hou <lin.hou@yale.edu>
+Description: This package provides functions for prioritizing GWAS signals by
+    incorporating network data.
+License: "GPL"
+Collate: 'MarkovRandomField.R' 'get_expression.R' 'get_gwas.R'
+        'get_network.R'
+Packaged: 2013-07-02 14:27:34 UTC; houzi
